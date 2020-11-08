@@ -4,7 +4,7 @@
 ## Data
 * The data used for the regression can be found [here](http://www.geolink.pt/ecmlpkdd2015-challenge/dataset.html).
 ## Course
-* NF26 (image analysis and synthesis) at [University of Technology of Compiègne](https://www.utc.fr/)
+* NF26 (Data warehouse and decision-making tools) at [University of Technology of Compiègne](https://www.utc.fr/)
 
 ## Authors
 **Emma Parois**
